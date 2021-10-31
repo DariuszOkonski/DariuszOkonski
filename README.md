@@ -5,7 +5,7 @@ I have been interested in programming since 2018 and have been improving my prog
 ### Connect with me:
 
 [<img align="left" alt="DariuszOkonski | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="DariuszOkonski | LinkedIn" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="DariuszOkonski | Website" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <br /><br />
 ### Front-End Technologies:
