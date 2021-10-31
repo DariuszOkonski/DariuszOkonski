@@ -41,7 +41,7 @@ I have been interested in programming since 2018 and have been improving my prog
 <img align="left" alt="npm" width="32px" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" />
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Postman" width="48px" src="https://user-images.githubusercontent.com/25181517/121302453-01a67f00-c8fa-11eb-8c86-2ee00734c9a8.png" />
+<img align="left" alt="Postman" width="64px" src="https://user-images.githubusercontent.com/25181517/121302453-01a67f00-c8fa-11eb-8c86-2ee00734c9a8.png" />
 
 [linkedin]: https://www.linkedin.com/in/dariusz-oko%C5%84ski-03113b199/
 [website]: https://www.dariusz-okonski.pl
