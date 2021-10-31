@@ -2,6 +2,7 @@
 
 I have been interested in programming since 2018 and have been improving my programming skills in frontend technologies such as HTML/CSS, JavaScript, and React.js since than. In November 2020 I have decided to enroll in an excellent 12-month full-stack course in programming school "CodeCool" in Poland. I have learned there technologies like Python, Java, Postgres and also gained experience how to work in a team.
 
+hello world
 
 
 <!--
