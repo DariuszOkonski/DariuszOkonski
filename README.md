@@ -1,6 +1,16 @@
 ### Hi there, my name is Dariusz 👋 
 
-I have been interested in programming since 2018 and improving my programming skills in frontend technologies such as HTML/CSS, JavaScript, and React.js since than. In November 2020 I have decided to enroll in an excellent 12-month full-stack course in programming school "CodeCool" in Poland. I have learned there technologies like Python, Java, Postgres and also gained experience how to work in a team.
+I am an ambitious and innovative front-end developer with the versatile experience
+in developing and enhancing functionality of web applications for hotel
+management and vacation booking platforms. I possess an ability of building
+scalable and efficient front-end solutions using React and Ember, as well as such
+tools as Visual Studio Code, Postman, Swagger, Git and GitLab. My expertise
+includes Agile methodologies (Scrum), project estimation, sprint planning and
+collaborative development in crossfunctional teams. My personal attributes include
+highly developed analytical skills, consistency in actions, and creativity in finding
+solutions. Moreover, I can combine technical expertise with strategic vision, what
+allows me to craft software solutions that drive efficiency, scalability, and business
+success
 
 ### Connect with me:
 
@@ -15,22 +25,6 @@ I have been interested in programming since 2018 and improving my programming sk
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Bootstrap" width="36px" src="https://user-images.githubusercontent.com/25181517/121402101-c89df700-c959-11eb-8b4a-bbadf9e84b30.png" />
-
-<br /><br />
-### Back-End Technologies:
-
-<img align="left" alt="Java" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Spring" width="32px" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" />
-<img align="left" alt="SpringBoot" width="32px" src="https://user-images.githubusercontent.com/25181517/117207026-c9d88300-adf3-11eb-9aad-6a875ab0f628.png" />
-<img align="left" alt="Maven" width="32px" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" />
-<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Express.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Flask" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<img align="left" alt="PostgreSQL" width="32px" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" />
-<img align="left" alt="Hibernate" width="32px" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" />
-<img align="left" alt="MongoDB" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <br /><br />
 ### Tools:
